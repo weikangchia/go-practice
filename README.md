@@ -1,4 +1,4 @@
-### Go Practice
+# Go Practice
 
 This is a repo to store the stuff I learn for Go programming language. This web application is hosted on Google App Engine (Standard).
 
