@@ -1,0 +1,15 @@
+*~
+*.pyc
+
+## Webstorm ##
+
+# User-specific stuff:
+.idea/workspace.xml
+.idea/markdown-navigator
+.idea/markdown-navigator.xml
+.idea/go-practice.iml
+.idea/modules.xml
+.idea/vcs.xml
+
+# Gradle:
+.idea/libraries
