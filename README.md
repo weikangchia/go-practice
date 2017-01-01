@@ -20,6 +20,7 @@ The development server watches for change in your project files. As you update y
 
 ## Deploy the app
 To deploy your app to App Engine, you will need the ID of your Cloud Platform project.<br/>
+
 1. Create a new Cloud Platform project and App Engine application using the Cloud Platform Console: [Go to App Engine](https://console.cloud.google.com/projectselector/appengine/create?lang=go&st=true&_ga=1.42187041.58596247.1471093802)<br/>
 When prompted, select the [region](https://cloud.google.com/appengine/docs/locations) where you want your App Engine application located. After your App Engine application is created, the <b>Dashboard</b> opens.
 2. Note the project ID that you created above.
