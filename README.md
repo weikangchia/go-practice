@@ -26,4 +26,4 @@ When prompted, select the [region](https://cloud.google.com/appengine/docs/locat
 2. Note the project ID that you created above.
 3. Upload your application to App Engine by running the following command from the `helloworld` directory where your `app.yaml` file is located:<br/>
 `goapp deploy -application [YOUR_PROJECT_ID] -version [YOUR_VERSION_ID] .`
-4. Your app is now deployed and ready to serve traffic at `http://[YOUR_PROJECT_ID].appspot.com/.`
+4. Your app is now deployed and ready to serve traffic at `http://[YOUR_PROJECT_ID].appspot.com/`.
